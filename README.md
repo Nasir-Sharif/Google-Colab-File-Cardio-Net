@@ -100,3 +100,23 @@ The dataset consists of 303 rows and 14 features related to patient medical reco
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nasir-Sharif/Google-Colab-File-Cardio-Net.git
+   Open the notebook in Google Colab or Jupyter:
+
+```
+Heart_Disease_Prediction.ipynb
+```
+
+📚 Future Work
+Try deep learning models like MLP.
+
+Deploy as a web app using Flask or Streamlit.
+
+Integrate real-time patient input form.
+
+📃 License
+This project is for academic purposes only.
+
+🙌 Acknowledgements
+Thanks to the open-source community and healthcare professionals whose data enables early disease prediction research.
+
+
